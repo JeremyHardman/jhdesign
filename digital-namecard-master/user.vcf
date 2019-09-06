@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Hardman;Jeremy;;;
+FN: Jeremy Hardman 
+ORG:Design;
+TITLE:Designer and Photographer\nOwner, Developer, Artist
+EMAIL;type=INTERNET;type=WORK;type=pref:j.hardman1@live.com
+TEL;type=WORK;type=VOICE:+801 209 7036
+item1.ADR;type=WORK;type=pref:;;\nSyracuse, Utah\,;;;84075;United States
+item1.X-ABADR:sg
+item2.URL;type=pref:jeremyhardman.netlify.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
